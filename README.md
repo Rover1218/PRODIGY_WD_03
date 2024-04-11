@@ -1,1 +1,3 @@
 THIS CODE HELPED ME TO LEARN ABOUT SOME KEYWORDS AND FUNCTIONS IN JAVASCRIPT
+This code is hosted on this site:
+https://rover1218.github.io/PRODIGY_WD_03/
